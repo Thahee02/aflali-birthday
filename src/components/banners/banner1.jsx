@@ -3,8 +3,8 @@ import 'animate.css';
 
 const BannerSection1 = () => {
     return ( 
-        <div className="flex items-center px-16 bg-blue-900 w-full h-screen relative overflow-hidden select-none" style={{backgroundImage: 'url('+ Banner1 +')'}}>
-            <h1 className="text-6xl font-bold text-white max-w-[900px]">WISH YOU MANY MORE HAPPY RETURNS OF THE DAY <br /><span className="text-yellow-400 text-8xl">AFLALI</span></h1>
+        <div className="flex items-center px-4 sm:px-16 bg-blue-900 w-full h-screen relative overflow-hidden select-none" style={{backgroundImage: 'url('+ Banner1 +')'}}>
+            <h1 className="text-6xl font-bold text-white sm:max-w-[900px]">WISH YOU MANY MORE HAPPY RETURNS OF THE DAY <br /><span className="text-yellow-400 text-8xl">AFLALI</span></h1>
             <div className='absolute bottom-10 w-full flex'>
                 <div className='flex items-center gap-2 px-4 py-2 border-2 rounded-3xl text-white font-bold drop-shadow-2xl animate__animated animate__pulse animate__infinite'>
                     <span>SCROLL DOWN</span>
