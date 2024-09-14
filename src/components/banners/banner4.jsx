@@ -7,11 +7,11 @@ const BannerSection4 = () => {
     const videos = ["ksUd6q2pMog", "7HzfJ0ptRD0", "MVYcu6OfJ9M"] 
 
     return ( 
-        <div className="bg-yellow-600 px-2">
+        <div className="bg-yellow-600 px-2 pb-10">
             <h1 className="text-center text-white text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-bold py-8 z-10">A Birthday and Musical Journey</h1>
-            <div className="py-8 w-full flex justify-around flex-wrap max-xl:gap-8">
-                {videos.map(video => {
-                    return <YouTubeEmbed videoId={video}  />                   
+            <div className="sm:py-8 w-full flex justify-around flex-wrap max-xl:gap-8">
+                {videos.map((video, index) => {
+                    return <YouTubeEmbed videoId={video} key={index}  />                   
                 })}
             </div>
         </div>
