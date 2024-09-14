@@ -3,8 +3,6 @@ import 'animate.css';
 
 const BannerSection1 = () => {
 
-    console.log(window.innerHeight);
-
     const scrollDown = () => {
         window.scrollBy({
             top: window.innerHeight, 
