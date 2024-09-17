@@ -35,7 +35,7 @@ const BannerSection3 = () => {
             <div className='w-full flex justify-center items-center mt-10'>
                 <Carousel responsive={responsive} infinite={true}  centerMode={false} autoPlay={true} autoPlaySpeed={5000} transitionDuration={2000} className='max-sm:px-8 max-lg:px-14 max-xl:px-4 px-12'>               
                     <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
-                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0' style={{backgroundImage: 'url(' + ThaheeImage + ')'}}></div>
+                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + ThaheeImage + ')'}}></div>
                         <h1 className='font-bold my-3 text-yellow-400'>HATHIL THAHEE</h1>
                         <q className='text-gray-300 text-center text-sm'>Happy Birthday mcn 🎉, Aflali! Even though we only spent 10 days together, those days were truly unforgettable. You&apos;ve been such a caring and kind friend, and I&apos;m so grateful for the time we shared. Wishing you a birthday filled with love, laughter, and all the happiness you deserve. May this year bring you endless joy and wonderful memories! 🥳🎂 Stay amazing, my friend!</q>
                     </div>
