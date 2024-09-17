@@ -4,6 +4,7 @@ import ThaheeImage from '../../assets/thahee.jpeg'
 import PirabaImage from '../../assets/prabha.jpg'
 import DoncyImage from '../../assets/doncy.jpg'
 import SahiImage from '../../assets/sahi.jpg'
+import PirashaImage from '../../assets/pirasha.jpg'
 import GirlImage from '../../assets/girl.png'
 
 const BannerSection3 = () => {
@@ -62,9 +63,9 @@ const BannerSection3 = () => {
                         <q className='text-gray-300 text-center text-sm'>Happy Birthday, Aflali! 🎉 Wishing you a day filled with love, laughter, and all the joy your heart can hold. May this year bring you endless happiness, new adventures, and dreams come true. Celebrate big, because you truly deserve all the best! 🎂🎈🎁</q>
                     </div>
                     <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
-                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + ThaheeImage + ')'}}></div>
-                        <h1 className='font-bold my-3 text-yellow-400'>HATHIL THAHEE</h1>
-                        <q className='text-gray-300 text-center text-sm'>Happy Birthday mcn 🎉, Aflali! Even though we only spent 10 days together, those days were truly unforgettable. You&apos;ve been such a caring and kind friend, and I&apos;m so grateful for the time we shared. Wishing you a birthday filled with love, laughter, and all the happiness you deserve. May this year bring you endless joy and wonderful memories! 🥳🎂 Stay amazing, my friend!</q>
+                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + PirashaImage + ')'}}></div>
+                        <h1 className='font-bold my-3 text-yellow-400'>PIRASHA</h1>
+                        <q className='text-gray-300 text-center text-sm'>May your birthday be the start of a year filled with new opportunities,accomplishments,and endless joy. Happy birthday Aflali 🎂🥳!!!</q>
                     </div>               
                 </Carousel>
             </div>
