@@ -1,6 +1,8 @@
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import ThaheeImage from '../../assets/thahee.jpeg'
+import PirabaImage from '../../assets/prabha.jpg'
+import GirlImage from '../../assets/girl.png'
 
 const BannerSection3 = () => {
 
@@ -38,14 +40,14 @@ const BannerSection3 = () => {
                         <q className='text-gray-300 text-center text-sm'>Happy Birthday mcn 🎉, Aflali! Even though we only spent 10 days together, those days were truly unforgettable. You&apos;ve been such a caring and kind friend, and I&apos;m so grateful for the time we shared. Wishing you a birthday filled with love, laughter, and all the happiness you deserve. May this year bring you endless joy and wonderful memories! 🥳🎂 Stay amazing, my friend!</q>
                     </div>
                     <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
-                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0' style={{backgroundImage: 'url(' + ThaheeImage + ')'}}></div>
-                        <h1 className='font-bold my-3 text-yellow-400'>HATHIL THAHEE</h1>
-                        <q className='text-gray-300 text-center text-sm'>Happy Birthday mcn 🎉, Aflali! Even though we only spent 10 days together, those days were truly unforgettable. You&apos;ve been such a caring and kind friend, and I&apos;m so grateful for the time we shared. Wishing you a birthday filled with love, laughter, and all the happiness you deserve. May this year bring you endless joy and wonderful memories! 🥳🎂 Stay amazing, my friend!</q>
+                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0' style={{backgroundImage: 'url(' + GirlImage + ')'}}></div>
+                        <h1 className='font-bold my-3 text-yellow-400'>PINTHUJA</h1>
+                        <q className='text-gray-300 text-center text-sm'>Dear Aflali, தோழிக்கு தோழனாய் இசையின் அன்பில் பிடித்ததை பகிரும் ஓர் உள்ளமாய் நீ இருந்தாய். உன் புன்னகையில் எம்மை மெய் மறக்கச் செய்தாய். அன்பின் தோழனுக்கு என் இனிய பிறந்த நாள் வாழ்த்துக்கள்!</q>
                     </div>
                     <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
-                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0' style={{backgroundImage: 'url(' + ThaheeImage + ')'}}></div>
-                        <h1 className='font-bold my-3 text-yellow-400'>HATHIL THAHEE</h1>
-                        <q className='text-gray-300 text-center text-sm'>Happy Birthday mcn 🎉, Aflali! Even though we only spent 10 days together, those days were truly unforgettable. You&apos;ve been such a caring and kind friend, and I&apos;m so grateful for the time we shared. Wishing you a birthday filled with love, laughter, and all the happiness you deserve. May this year bring you endless joy and wonderful memories! 🥳🎂 Stay amazing, my friend!</q>
+                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0' style={{backgroundImage: 'url(' + PirabaImage + ')'}}></div>
+                        <h1 className='font-bold my-3 text-yellow-400'>PIRABA</h1>
+                        <q className='text-gray-300 text-center text-sm'>On your birthday I Wish you much pleasure and joy. I hope all of your wishes come true. May each hour and minute be filled with delight, And your birthday be perfect for you..! Happy birthday to the maestro of melodies! May your life be as harmonious and beautiful as your songs. Wish your many more returns of the day Mcn🫂💙</q>
                     </div>
                     <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
                         <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0' style={{backgroundImage: 'url(' + ThaheeImage + ')'}}></div>
