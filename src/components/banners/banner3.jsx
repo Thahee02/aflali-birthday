@@ -10,6 +10,7 @@ import NuskiImage from '../../assets/nuski.jpg'
 import ShamImage from '../../assets/sham.jpg'
 import AbdulRahmanImage from '../../assets/abdul-rahman.jpg'
 import SushaImage from '../../assets/susha.jpg'
+import VenuImage from '../../assets/venu.jpg'
 import GirlImage from '../../assets/girl.png'
 
 const BannerSection3 = () => {
@@ -91,6 +92,11 @@ const BannerSection3 = () => {
                         <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + SushaImage + ')'}}></div>
                         <h1 className='font-bold my-3 text-yellow-400'>SUSHA</h1>
                         <q className='text-gray-300 text-center text-sm'>Wishing you a day that’s as fabulous as you are! May all your ❤️🌝 dreams come true 😉💚⛅ this year.</q>
+                    </div>
+                    <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
+                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + VenuImage + ')'}}></div>
+                        <h1 className='font-bold my-3 text-yellow-400'>VENU</h1>
+                        <q className='text-gray-300 text-center text-sm'>இசையால் உலகை வெல்ல இனிய அகவைத்திருநாள்நாள் நல்வாழ்த்துக்கள்டா Singer 💯🤌❤️</q>
                     </div>
                     <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
                         <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + NuskiImage + ')'}}></div>
