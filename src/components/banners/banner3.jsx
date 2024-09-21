@@ -7,6 +7,9 @@ import SahiImage from '../../assets/sahi.jpg'
 import PirashaImage from '../../assets/pirasha.jpg'
 import MahiliniImage from '../../assets/mahilini.jpg'
 import NuskiImage from '../../assets/nuski.jpg'
+import ShamImage from '../../assets/sham.jpg'
+import AbdulRahmanImage from '../../assets/abdul-rahman.jpg'
+import SushaImage from '../../assets/susha.jpg'
 import GirlImage from '../../assets/girl.png'
 
 const BannerSection3 = () => {
@@ -55,9 +58,19 @@ const BannerSection3 = () => {
                         <q className='text-gray-300 text-center text-sm'>Happy Birthday mcn 🎉, Aflali! Even though we only spent 10 days together, those days were truly unforgettable. You&apos;ve been such a caring and kind friend, and I&apos;m so grateful for the time we shared. Wishing you a birthday filled with love, laughter, and all the happiness you deserve. May this year bring you endless joy and wonderful memories! 🥳🎂 Stay amazing, my friend!</q>
                     </div>
                     <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
+                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + ShamImage + ')'}}></div>
+                        <h1 className='font-bold my-3 text-yellow-400'>SHAM</h1>
+                        <q className='text-gray-300 text-center text-sm'>Happy Birthday to my Besta Aflali !! ♥️🎉 Your talent for creating beautiful music is truly inspiring, and I feel so lucky to witness your journey. 💥 You bring rhythm and melody to not just your songs, but to the lives of everyone around you. May this year bring you even more opportunities to shine and create masterpieces🎈🥳.. Keep making the world a better place, one note at a time! 🎶 Wishing you a day filled with happiness, creativity, and unforgettable moments!❤️‍🩹🫂</q>
+                    </div>
+                    <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
                         <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + GirlImage + ')'}}></div>
                         <h1 className='font-bold my-3 text-yellow-400'>PINTHUJA</h1>
                         <q className='text-gray-300 text-center text-sm'>Dear Aflali, தோழிக்கு தோழனாய் இசையின் அன்பில் பிடித்ததை பகிரும் ஓர் உள்ளமாய் நீ இருந்தாய். உன் புன்னகையில் எம்மை மெய் மறக்கச் செய்தாய். அன்பின் தோழனுக்கு என் இனிய பிறந்த நாள் வாழ்த்துக்கள்!</q>
+                    </div>
+                     <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
+                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + AbdulRahmanImage + ')'}}></div>
+                        <h1 className='font-bold my-3 text-yellow-400'>ABDUL RAHMAN</h1>
+                        <q className='text-gray-300 text-center text-sm'>Candles to blow....✨may your birthday fill with laughter......wish you happy birthday aflalih...🎉🎂</q>
                     </div>
                     <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
                         <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + SahiImage + ')'}}></div>
@@ -72,7 +85,12 @@ const BannerSection3 = () => {
                     <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
                         <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + PirashaImage + ')'}}></div>
                         <h1 className='font-bold my-3 text-yellow-400'>PIRASHA</h1>
-                        <q className='text-gray-300 text-center text-sm'>May your birthday be the start of a year filled with new opportunities,accomplishments,and endless joy. Happy birthday Aflali 🎂🥳!!!</q>
+                        <q className='text-gray-300 text-center text-sm'>May your birthday be the start of a year filled with new opportunities, accomplishments, and endless joy. Happy birthday Aflali 🎂🥳!!!</q>
+                    </div>
+                    <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
+                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + SushaImage + ')'}}></div>
+                        <h1 className='font-bold my-3 text-yellow-400'>SUSHA</h1>
+                        <q className='text-gray-300 text-center text-sm'>Wishing you a day that’s as fabulous as you are! May all your ❤️🌝 dreams come true 😉💚⛅ this year.</q>
                     </div>
                     <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
                         <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + NuskiImage + ')'}}></div>
