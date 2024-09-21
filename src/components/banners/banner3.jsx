@@ -12,6 +12,7 @@ import AbdulRahmanImage from '../../assets/abdul-rahman.jpg'
 import SushaImage from '../../assets/susha.jpg'
 import VenuImage from '../../assets/venu.jpg'
 import PinthujaImage from '../../assets/pinthuja.jpg'
+import HamsathImage from '../../assets/hamsath.jpg'
 import GirlImage from '../../assets/girl.png'
 
 const BannerSection3 = () => {
@@ -83,6 +84,11 @@ const BannerSection3 = () => {
                         <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + MahiliniImage + ')'}}></div>
                         <h1 className='font-bold my-3 text-yellow-400'>MAHILINI</h1>
                         <q className='text-gray-300 text-center text-sm'>May your birthday be the beginning of a year filled with positivity, hope, and the confidence to overcome any challenge. Happy birthday 🎂🎉🎈 Aflali !</q>
+                    </div>
+                    <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
+                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + HamsathImage + ')'}}></div>
+                        <h1 className='font-bold my-3 text-yellow-400'>HAMSATH</h1>
+                        <q className='text-gray-300 text-center text-sm'>Wishing you a fabulous year ahead! Happy Birthday Machan!❤️</q>
                     </div>
                     <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
                         <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + PirashaImage + ')'}}></div>
