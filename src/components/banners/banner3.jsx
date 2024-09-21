@@ -114,7 +114,7 @@ const BannerSection3 = () => {
                     <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
                         <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + AsryImage + ')'}}></div>
                         <h1 className='font-bold my-3 text-yellow-400'>ASRY</h1>
-                        <q className='text-gray-300 text-center text-sm'>May the year ahead bring everything you've been working toward! Happy birthday Aflal ! 💜</q>
+                        <q className='text-gray-300 text-center text-sm'>May the year ahead bring everything you've been working toward! Happy birthday Aflali!💜</q>
                     </div>               
                 </Carousel>
             </div>
