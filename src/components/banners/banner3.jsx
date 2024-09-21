@@ -11,6 +11,7 @@ import ShamImage from '../../assets/sham.jpg'
 import AbdulRahmanImage from '../../assets/abdul-rahman.jpg'
 import SushaImage from '../../assets/susha.jpg'
 import VenuImage from '../../assets/venu.jpg'
+import PinthujaImage from '../../assets/pinthuja.jpg'
 import GirlImage from '../../assets/girl.png'
 
 const BannerSection3 = () => {
@@ -64,7 +65,7 @@ const BannerSection3 = () => {
                         <q className='text-gray-300 text-center text-sm'>Happy Birthday to my Besta Aflali !! ♥️🎉 Your talent for creating beautiful music is truly inspiring, and I feel so lucky to witness your journey. 💥 You bring rhythm and melody to not just your songs, but to the lives of everyone around you. May this year bring you even more opportunities to shine and create masterpieces🎈🥳.. Keep making the world a better place, one note at a time! 🎶 Wishing you a day filled with happiness, creativity, and unforgettable moments!❤️‍🩹🫂</q>
                     </div>
                     <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
-                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + GirlImage + ')'}}></div>
+                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + PinthujaImage + ')'}}></div>
                         <h1 className='font-bold my-3 text-yellow-400'>PINTHUJA</h1>
                         <q className='text-gray-300 text-center text-sm'>Dear Aflali, தோழிக்கு தோழனாய் இசையின் அன்பில் பிடித்ததை பகிரும் ஓர் உள்ளமாய் நீ இருந்தாய். உன் புன்னகையில் எம்மை மெய் மறக்கச் செய்தாய். அன்பின் தோழனுக்கு என் இனிய பிறந்த நாள் வாழ்த்துக்கள்!</q>
                     </div>
