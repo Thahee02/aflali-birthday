@@ -14,6 +14,7 @@ import VenuImage from '../../assets/venu.jpg'
 import PinthujaImage from '../../assets/pinthuja.jpg'
 import HamsathImage from '../../assets/hamsath.jpg'
 import AsryImage from '../../assets/asry.jpg'
+import SanjaiImage from '../../assets/sanjai.jpg'
 import GirlImage from '../../assets/girl.png'
 
 const BannerSection3 = () => {
@@ -115,6 +116,11 @@ const BannerSection3 = () => {
                         <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + AsryImage + ')'}}></div>
                         <h1 className='font-bold my-3 text-yellow-400'>ASRY</h1>
                         <q className='text-gray-300 text-center text-sm'>May the year ahead bring everything you've been working toward! Happy birthday Aflali!💜</q>
+                    </div>
+                    <div className='w-80  border-2 rounded-xl text-white flex flex-col items-center py-5 px-4'>
+                        <div className='w-20 h-20 rounded-full bg-center bg-cover shrink-0 shadow-2xl' style={{backgroundImage: 'url(' + SanjaiImage + ')'}}></div>
+                        <h1 className='font-bold my-3 text-yellow-400'>SANJAI</h1>
+                        <q className='text-gray-300 text-center text-sm'>நட்பே, நீ எப்போவும் சந்தோஷமா இருக்கணும். உன் எல்லா கனவுகளும் நிறைவேற வாழ்த்துகள்! Happy Birthday!</q>
                     </div>               
                 </Carousel>
             </div>
